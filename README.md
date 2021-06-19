@@ -10,7 +10,7 @@ CS 自学指南（Java编程语言、数据库、数据结构与算法、计算�
 
 于是，我便真正走上了一条自学计算机的“不归路”。说“不归路”的原因在于，计算机科学是一个非常庞大的知识体系，我花了好多年的时间，仍然感觉到这条路上还有很多的未知等待我去探索。
 
-![](https://img-blog.csdnimg.cn/20210619094001552.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/01.png)
 
 但正因为有太多的未知需要我去探索，所以我每天都能感受到自己在进步，我完全不需要花费数年的光阴去攻读一个学位证书，仅仅依靠我自己，就能获得世界上一流水平的教育。
 
@@ -47,15 +47,15 @@ CS 自学指南（Java编程语言、数据库、数据结构与算法、计算�
 
 你可以去编程语言排行榜（TIOBE，非常权威）看一下——关于近 10 年编程语言的变化。Java 长期霸占着这份榜单，并且还会持续更久，一门编程语言能有这么顽强的生命力，它一定有别的语言所没有的优点，它与生俱来的竞争力是别的语言无法取代的。
 
-![](https://files.mdnice.com/user/3903/4a5374a4-2aab-4309-9a40-43f43e07d53e.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/02.png)
 
 #### Java 基础
 
-![](https://img-blog.csdnimg.cn/20210619112506846.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/03.png)
 
 可以先看看我整理的这份 [GitHub 上星标 115k+ 的 Java 教程](https://mp.weixin.qq.com/s/d7Z0QoChNuP9bTwAGh2QCw)，里面涵盖了 Java 所有的知识点，包括 Java 语法、Java 集合框架、Java IO、Java 并发编程和 Java 虚拟机，内容不多，只讲重点。
 
-![](https://files.mdnice.com/user/3903/8bf3149e-491e-4aba-bf4a-3a298b7ef794.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/04.png)
 
 《[Java核心技术卷一](https://book.douban.com/subject/34898994/)》是一本非常适合拿来作为学习 Java 的入门书。
 
@@ -78,7 +78,7 @@ CS 自学指南（Java编程语言、数据库、数据结构与算法、计算�
 
 并发编程的部分比较难一些，需要花时间和精力更专注地学一下。
 
-![](https://img-blog.csdnimg.cn/20210619152226738.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/05.png)
 
 可以看一下这份《[深入浅出 Java 多线程](https://zhuanlan.zhihu.com/p/338958936)》，几位在大厂工作过的技术大佬开源的，为了写好这份小册子，他们阅读了大量的 Java 并发编程方面的书籍和技术博客，加上他们在工作中积累的一线开发经验，汇聚而成。
 
@@ -115,7 +115,7 @@ CS 自学指南（Java编程语言、数据库、数据结构与算法、计算�
 
 #### JVM
 
-![](https://files.mdnice.com/user/3903/c6333579-ba21-4d9d-96cb-a7d925c2e602.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/06.png)
 
 周志明老师的《[深入理解 Java 虚拟机](https://book.douban.com/subject/34907497/)》绝对是学习 Java 虚拟机的首选。自 2011 年上市以来，前两版累计销量超过 30 万册，第 3 版在第 2 版的基础上做了重大修订，内容更丰富、实战性更强。
 
@@ -195,11 +195,11 @@ one more thing：
 
 给你推荐一门课，浙江大学翁恺教授的《[程序设计入门——C语言](https://www.icourse163.org/course/ZJU-199001?from=searchPage#/info)》，国家级精品课，很适合初学者。
 
-![](https://files.mdnice.com/user/3903/8156f447-418c-405f-8cf9-633ac8e175e0.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/07.png)
 
 翁恺老师在推荐这门课的时候说过，“这门课就是关于计算机的那些程序是如何被写出来的，写出来的这些人就是普通的人，那么我们当然也能学会怎么把程序写出来。学习编程最基础的那些东西，无非就是如何表达数据，如何计算，如何在计算的时候使用判断啊、循环啊这些手段。”
 
-![](https://files.mdnice.com/user/3903/01578d69-b640-46e9-9a36-2ebe67f6c847.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/08.png)
 
 再推荐一本书，《[C 程序设计语言](https://book.douban.com/subject/1139336/)》，我们熟知的“hello World”入门小程序其实就是由这本书首次引入的。对于学习计算机专业的同学来说，《C 程序设计语言》是一本必读的经典书。
 
@@ -209,11 +209,11 @@ one more thing：
 
 #### SQL
 
-![](https://files.mdnice.com/user/3903/2a71eae2-36ff-4ec9-ab12-02d2eb369efe.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/09.png)
 
 《[SQL 必知必会](https://book.douban.com/subject/35167240/)》是麻省理工学院、伊利诺伊大学等众多大学的参考教材，这本书直接从 SQL 的 SELECT 开始，讲述了实际工作环境中最常用和最必需的 SQL 知识，实用性极强。
 
-![](https://img-blog.csdnimg.cn/20210619190333896.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/10.png)
 
 CodeWithMosh 是目前市面上能找到的逻辑最清晰，最简单易懂的 SQL 视频教程。尤其对初学者而言，直接入手这个版本能塑造良好的 SQL 编写思维和逻辑能力。
 
@@ -222,11 +222,11 @@ CodeWithMosh 是目前市面上能找到的逻辑最清晰，最简单易懂的 
 #### MySQL
 
 
-![](https://files.mdnice.com/user/3903/7e608fd1-0c33-4786-a5a2-8e8ff09f5b33.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/11.png)
 
 《[高性能 MySQL](https://book.douban.com/subject/23008813/)》，业界公认的一本经典的 MySQL 读物，书中没有各种提升性能的秘籍，而是深入问题的核心，详细的解释了每种提升性能的原理，从而可以使你四两拨千斤。
 
-![](https://files.mdnice.com/user/3903/9b16077d-8a3a-4d6c-8690-0063c615030b.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/12.png)
 
 尚硅谷的这个视频课讲得真的挺不错的，[MySQL_基础+高级篇](https://www.bilibili.com/video/BV12b411K7Zu)。
 
@@ -234,7 +234,7 @@ CodeWithMosh 是目前市面上能找到的逻辑最清晰，最简单易懂的 
 #### Redis
 
 
-![](https://files.mdnice.com/user/3903/3be13c34-864d-47e5-bd85-00b15168bc08.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/13.png)
 
 《[Redis 深入历险核心原理与应用实战](https://book.douban.com/subject/30386804/)》分为基础和应用篇、原理篇、集群篇、拓展篇、源码篇共 5 大块内容。基础和应用篇讲解对读者来说最有价值的内容，可以直接应用到实际工作中；原理篇、集群篇让开发者透过简单的技术表面看到精致的底层世界；拓展篇帮助读者拓展技术视野和夯实基础，便于进阶学习；源码篇让高阶的读者能够读懂源码，掌握核心技术实力。
 
@@ -254,19 +254,19 @@ CodeWithMosh 是目前市面上能找到的逻辑最清晰，最简单易懂的 
 
 计算机科学所赋予人们的最大能量在于对常见算法和数据结构的熟悉。此外，这也可以训练一个人对于各种问题的解决能力，有助于其他领域的学习。
 
-![](https://files.mdnice.com/user/3903/905c9024-5bcf-4c2b-b759-f923ae43b7c9.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/14.png)
 
 虽然名为《[算法](https://book.douban.com/subject/19952400/)》，但算法是基于数据结构的，数组、队列、栈、堆、二叉树、哈希表等等，这些数据结构这本书都讲到了。
 
 
-![](https://files.mdnice.com/user/3903/80e76d7d-ed33-4889-8c23-f92e064b61af.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/15.png)
 
 
 如果你更喜欢视频课程，我推荐[浙江大学的一个的视频课](https://www.bilibili.com/video/BV1JW411i731)，很系统很经典，适合小白入门。
 
 至于练习，我推荐你到 LeetCode 上刷题，Leetcode 上的问题往往有趣且带有良好的解法和讨论。此外，在竞争日益激烈的软件行业，这些问题可以帮助你评估自己应对技术面试中常见问题的能力。我建议你至少刷 100 道题，作为学习的一部分。
 
-![](https://img-blog.csdnimg.cn/20210619203352424.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/16.png)
 
 我整理的这份 [LeetCode 刷题笔记](https://mp.weixin.qq.com/s/wvzB1p9_Yu7n7Ak83DrrdA)足足 100 道，对算法薄弱和需要提高算法的同学很有帮助。
 
@@ -292,7 +292,7 @@ CodeWithMosh 是目前市面上能找到的逻辑最清晰，最简单易懂的 
 
 计算机组成原理，也叫“计算机系统结构”，是了解软件底层的重要视角，但却很容易被忽略。
 
-![](https://files.mdnice.com/user/3903/77392939-dc53-45a6-9872-ba37b3ff3ef7.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/17.png)
 
 《[深入理解计算机系统](https://book.douban.com/subject/5333562/)》这本书站在程序员的视角，非常的使用。虽然计算机的系统结构比这本书涉及到的内容多得多，但却是一个很好的起点。
 
@@ -306,7 +306,7 @@ CodeWithMosh 是目前市面上能找到的逻辑最清晰，最简单易懂的 
 
 视频课程：
 
-![](https://files.mdnice.com/user/3903/432eb9d6-2d24-438a-85a5-75098541bae6.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/18.png)
 
 弄明白了计算机的组成原理，也就对整个软件开发有了一个系统的认知，不论是计算机的硬件原理，还是软件架构，都能很好的驾驭，随之而来的，我们的职业发展机会也就更多了。如果想深入学习计算机组成原理的话，我推荐哈工大的这门视频课，整体评价非常高。
 
@@ -322,17 +322,17 @@ CodeWithMosh 是目前市面上能找到的逻辑最清晰，最简单易懂的 
 
 为什么要学习操作系统呢？第一，面试要考；第二，无论学习哪门子编程语言，比如说 Java、C/C++，都需要和操作系统打交道，像 Java 中的多线程技术，其实是由操作系统来负责进程和线程管理的；第三，学习操作系统，还能学到内存分配方面的知识。
 
-![](https://files.mdnice.com/user/3903/46d83de5-26d8-4653-80fe-b3d0084ca9e2.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/19.png)
 
 《[操作系统概念](https://book.douban.com/subject/30297919/)》 （“龙书”）和 《[现代操作系统](https://book.douban.com/subject/27096665/)》 是操作系统领域的经典书籍。只不过，这两本书对学生来说，不是特别友好，所以遭到了很多批评。
 
 操作系统是计算机系统中负责管理各种软硬件资源的核心系统软件，为应用软件运行提供良好的环境。[清华大学操作系统课-学堂在线](https://www.xuetangx.com/course/THU08091000267/5883104?channel=learn_title)这门课程以主流操作系统为实例，以教学操作系统 ucore 为实验环境，讲授操作系统的概念、基本原理和实现技术，是一门非常值得推荐的视频课。
 
-![](https://img-blog.csdnimg.cn/20210619210353898.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/20.png)
 
 副本-[计算机科学速成课](https://www.bilibili.com/video/av21376839)：
 
-![](https://img-blog.csdnimg.cn/20210619210059950.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/21.png)
 
 非常值得每个程序员去刷一刷的，全部都是计算机专业需要掌握的知识点，至少是应该了解的知识点。英文中字版的，观看起来毫无压力。
 
@@ -345,12 +345,12 @@ CodeWithMosh 是目前市面上能找到的逻辑最清晰，最简单易懂的 
 
 鉴于那么多的关于网络服务端和客户端的软件工程，计算机网络是计算机科学中价值最为“立竿见影”的领域之一。
 
-![](https://files.mdnice.com/user/3903/d7203f19-de61-498c-9a5c-d1237991d28f.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/22.png)
 
 [计算机网络-自顶向下方法](https://book.douban.com/subject/30280001/)是一本我比较钟爱的书籍，书中的小项目和习题非常值得练习，尤其是 [Wireshark labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm) 部分。
 
 
-![](https://files.mdnice.com/user/3903/dcf9df66-ff20-430d-aa5a-de8874b6f38a.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/23.png)
 
 B 站上的这个[计算机网络微课堂](https://www.bilibili.com/video/BV1c4411d7jb)视频课非常不错，强烈推荐。
 
@@ -381,7 +381,7 @@ B 站上的这个[计算机网络微课堂](https://www.bilibili.com/video/BV1c4
 
 英语用得好，退一万步讲，你在敲代码的时候再也不用担心方法、变量和类的命名不够优雅了。
 
-![](https://img-blog.csdnimg.cn/20210619212237986.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/24.png)
 
 前新东方英语老师李笑来在 GitHub 上开源的这份英语学习教程还不错，英文名字叫《[everyone can use english](https://github.com/xiaolai/everyone-can-use-english)》，中文名译作《[人人都能用英语](https://mp.weixin.qq.com/s/yjBldT9YShWd6cnDIg6RuQ)》，已有 5.4k 的 star。
 
@@ -438,18 +438,18 @@ B 站上的这个[计算机网络微课堂](https://www.bilibili.com/video/BV1c4
 
 你可以把我整理的这份题库过一下，题库分为十九个模块，分别是：Java 基础、容器、多线程、反射、对象拷贝、Java Web 模块、异常、网络、设计模式、Spring/Spring MVC、Spring Boot/Spring Cloud、Hibernate、Mybatis、RabbitMQ、Kafka、Zookeeper、MySql、Redis、JVM，足足 208 道：
 
-![](https://img-blog.csdnimg.cn/2021061921263552.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/25.png)
 
 [可能是2021年最全最硬核的Java面试 “备战” 资料](https://mp.weixin.qq.com/s/aJCmPMUdMC43IlrKjQMZyw)
 
 
-![](https://files.mdnice.com/user/3903/4076e024-34ca-49ea-a5a3-2944f42a95a8.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/26.png)
 
 [不好意思！GitHub 星标 100k+的这份面试攻略让我膨胀了](https://mp.weixin.qq.com/s/s0_XzGjHcgk2RwbCRzmgHg)
 
 ### 全部汇总
 
-![](https://img-blog.csdnimg.cn/20210619221431413.png)
+![](https://cdn.jsdelivr.net/gh/itwanger/LearnCS-ByYourself/images/27.png)
 
 我把所有的电子书都放在另外一个仓库了：
 
