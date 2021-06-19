@@ -447,6 +447,14 @@ B 站上的这个[计算机网络微课堂](https://www.bilibili.com/video/BV1c4
 
 [不好意思！GitHub 星标 100k+的这份面试攻略让我膨胀了](https://mp.weixin.qq.com/s/s0_XzGjHcgk2RwbCRzmgHg)
 
+### 全部汇总
+
+![](https://img-blog.csdnimg.cn/20210619221431413.png)
+
+我把所有的电子书都放在另外一个仓库了：
+
+[JavaBooks](https://github.com/itwanger/JavaBooks)
+
 ### 常见问题解答
 
 #### 这份自学指南的目标受众是？
@@ -477,7 +485,7 @@ B 站上的这个[计算机网络微课堂](https://www.bilibili.com/video/BV1c4
 
 #### 这份指南是谁写的？
 
-主笔为**沉默王二**，可以微信搜索“沉默王二”关注二哥的微信公众号。只要有足够的时间和动力，我非常有信心，你可以自学完以上所有课程。
+主笔为**沉默王二**，可以微信搜索“沉默王二”关注我的微信公众号。只要有足够的时间和动力，我非常有信心，你可以自学完以上所有课程。
 
 参考链接：
 
