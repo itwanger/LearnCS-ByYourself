@@ -2,10 +2,6 @@
 
 CS 自学指南（Java编程语言、数据库、数据结构与算法、计算机组成原理、操作系统、计算机网络、英语、简历、面试）
 
-**所涉及到的电子书，可以通过另外一个仓库下载**：
-
-[https://github.com/itwanger/JavaBooks](https://github.com/itwanger/JavaBooks)
-
 ### 前言
 
 回想起我的大学之路，难免觉得有些遗憾，因为学校的整体教学水平有限，而自己又缺乏主动去学习的意愿，就导致蹉跎了不少光阴。
@@ -494,6 +490,10 @@ B 站上的这个[计算机网络微课堂](https://www.bilibili.com/video/BV1c4
 #### 这份指南是谁写的？
 
 主笔为**沉默王二**，可以微信搜索“沉默王二”关注我的微信公众号。只要有足够的时间和动力，我非常有信心，你可以自学完以上所有课程。
+
+**所涉及到的电子书，可以通过下面这个仓库下载**：
+
+[https://github.com/itwanger/JavaBooks](https://github.com/itwanger/JavaBooks)
 
 参考链接：
 
